@@ -1,0 +1,787 @@
+Generalidades.
+Ciencia y conocimiento en general. Organización del trabajo intelectual. Divulgación de la ciencia.
+Cooperación intelectual (técnica y científica). Teoría.
+Documentación en general. Producción documental. Centros de documentación.
+Escritura. Sistemas de escritura. Signos y símbolos. Representaciones gráficas en general.
+Ciencia y tecnología de los ordenadores. Informática.
+«Hardware». Componentes físicos del ordenador, máquinas.
+«Software». Equipo lógico, componentes lógicos, programas.
+Datos. Sistemas de gestión de bases de datos.
+Comunicación informática. Redes de ordenadores.
+Estudios teóricos de organización en general. Metodología. Análisis, síntesis, clasificación y taxonomía. Sistematización en general.
+Normalización en general y normas.
+Cronología.
+Metrología. Pesos y medidas en general.
+Teoría de la comunicación y del control en general. Cibernética.
+Civilización, progreso y cultura en general.
+Humanidades.
+Bibliografías universales.
+Bibliografías especiales.
+Catálogos en general.
+Catálogos especiales.
+Biblioteconomía.
+Enciclopedias y diccionarios enciclopédicos generales. Obras de referencia general. Estudios y crítica sobre esta clase de obras.
+Publicaciones seriadas. Publicaciones periódicas. Estudios y críticas sobre estas obras.
+Organizaciones. Asociaciones. Congresos. Exposiciones. Instituciones científicas.
+Museos. Galerías. Exposiciones permanentes. Museología.
+Periodismo. La Prensa (concepto, ética, administración y control, organización comercial y editorial).
+Poligrafías en general. Colecciones. Homenajes.
+Publicaciones infantiles en general. Libros infantiles y juveniles.
+Obras populares. Literatura de quiosco. Cómics.
+Manuscritos. Libros raros y curiosos. Bibliofilia. 
+Filosofía.
+Historia de la Filosofía.
+Metafísica. Ontología. Cosmología.
+Metafísica especial.
+Filosofía de la mente y del espíritu. Metafísica de la vida espiritual.
+Ciencias ocultas. Ocultismo.
+Astrología.
+Sistemas filosóficos.
+Feminismo.
+Psicología.
+Psicofisiología.
+Psicopatología.
+Psicología aplicada (psicotecnología). Test de aptitud.
+Lógica. Teoría del conocimiento. Epistemología. Metodología de la lógica.
+Ética. Moral.
+Religión.
+Teología natural.
+La Biblia.
+Antiguo Testamento.
+Nuevo Testamento.
+Teología dogmática.
+Teología moral. Teología práctica.
+Teología pastoral.
+Iglesia cristiana en general. Organización y liturgia.
+Catequesis.
+Historia general de la Iglesia cristiana. Órdenes y congregaciones religiosas.
+Iglesias cristianas. Comunidades y sectas.
+Iglesia Católica Romana.
+Protestantismo (Iglesias católicas no romanas).
+Religiones no cristianas. Mitología.
+Antiguas religiones griega y romana. Mitología clásica.
+Budismo.
+Judaísmo.
+El Islam. 
+Ciencias Sociales en general.
+Métodos de las Ciencias Sociales (investigación, selección, recopilación de datos, análisis).
+Cuestiones sociales y culturales. Política social.
+Sociografía. Situación social. Geografía social.
+Sociología. Estadística. Demografía.
+Ciencia estadística. Teoría de la estadística.
+Estadística de la población.
+Demografía. Estudios de la población.
+Migración. Inmigración y emigración.
+Sociología.
+Psicología social.
+Sociología de la comunicación.
+Política.
+Formas de organización política.
+Relaciones entre el Estado y la Iglesia. Política religiosa.
+Persecución política. Terrorismo.
+Grupos y estratos sociales. Clases. Profesiones.
+Elecciones. Plebiscitos. Referéndum.
+Migración. Emigración, colonización.
+Esclavitud.
+Política internacional. Relaciones internacionales. Política exterior.
+Parlamentos y gobiernos.
+Partidos políticos. Movimientos políticos.
+Economía en general.
+Ciencia económica. Economía política. Doctrinas económicas.
+Doctrinas marxistas-leninistas.
+Doctrinas no marxistas.
+Trabajo.
+Seguridad laboral. Higiene laboral.
+Economía regional, territorial.
+Política del suelo. Propiedad inmobiliaria. Bienes raíces.
+Formas de organización y cooperación en la economía. Cooperativismo.
+Finanzas. Hacienda pública.
+Banca. Bolsa. Moneda. Crédito.
+Política económica. Organización, planificación y producción.
+Producción. Servicios según los sectores económicos (alimentación, sector terciario, turismo...).
+Comercio en general. Relaciones económicas internacionales. Economía mundial.
+Mercado.
+Instituciones de la actividad comercial (ferias, mercados, intermediarios comerciales, etc.).
+Comercio interior.
+Comercio exterior.
+Economía internacional. Divisas.
+Derecho en general.
+Derecho comparado. Ciencias auxiliares del Derecho. 
+Derecho natural. Filosofía y Teoría del Derecho.
+Jurisprudencia.
+Derecho internacional.
+Derecho constitucional. Derecho político. Derecho público.
+Derechos humanos.
+Derecho administrativo.
+Derecho penal.
+Delitos contra la persona.
+Derecho penal especial (militar, marítimo, aéreo).
+Derecho civil. Derecho privado.
+Derecho de las personas.
+Derechos reales. Cosas y bienes. Derecho de cultivo. Agua. Derecho minero.
+Contratos y obligaciones. Alquileres.
+Responsabilidad civil.
+Derecho de familia. Derecho de sucesiones. Herederos.
+Derecho mercantil. Derecho marítimo. Derecho de autor.
+Derecho aéreo. Derecho de la radiodifusión. Derecho del espacio.
+Derecho procesal civil.
+Personal judicial.
+Derecho canónico. Derecho eclesiástico.
+Derechos especiales. Ramas especiales del Derecho.
+Derecho del trabajo.
+Derecho social.
+Derecho del suelo. Derecho agrario. Derecho urbanístico.
+Derecho de protección del medio ambiente.
+Derecho de la energía atómica, nuclear.
+Administración pública en general.
+Personal administrativo. Funcionarios.
+Funciones propias de la Administración. Legislación administrativa en general.
+Administración local.
+Administración regional. Administración autonómica.
+Administración central.
+Asuntos militares. Arte de la guerra.
+Fuerzas armadas en general. Vida militar.
+Reclutamiento. Enseñanza.
+Organización general de las fuerzas armadas.
+Táctica. Estrategia. Historia de las campañas.
+Organización de establecimientos, edificios e instalaciones militares.
+Cuerpos armados.
+Trabajo social. Ayuda social.
+Asistencia social.
+Consumismo.
+Seguros.
+Seguridad Social.
+Educación. Enseñanza.
+Bases de la educación. Pedagogía. Política educativa.
+Psicología pedagógica. Sociología de la educación.
+Didáctica y metodología. 
+Formación de la inteligencia y de la personalidad.
+Orientación educativa.
+Organización de la educación y la enseñanza. Instituciones.
+Contenido y currículum de la enseñanza preescolar y elemental.
+Enseñanza escolar en general.
+Enseñanza preescolar.
+Enseñanza primaria.
+Enseñanza secundaria.
+Enseñanza y educación extraescolares.
+Enseñanza y educación de grupos especiales.
+Formación profesional. Enseñanzas técnicas.
+Enseñanza superior. Universidades y escuelas especiales con estatus universitario.
+Tiempo libre. Ocio.
+Tiempo libre en el hogar. Aficiones. Manualidades.
+Entretenimientos exteriores (albergues, campamentos).
+Turismo. Organización.
+Etnografía. Etnología.
+Vestimenta. Indumentaria. Moda.
+Usos y costumbres en la vida privada.
+Muerte. Funerales. Ritos funerarios.
+Vida pública. Vida social.
+Fiestas populares. Fiestas nacionales.
+Ceremonial. Etiqueta. Protocolo.
+Usos y costumbres de razas especiales (gitanos, nómadas, etc.).
+Folclore.
+Narraciones, fábulas, sagas, leyendas, chistes.
+Cancionero popular.
+Proverbios, dichos populares.
+Ciencias Puras. Ciencias Exactas y Naturales
+Estudio, conservación y protección de la naturaleza.
+Ciencias del medio ambiente.
+Matemáticas.
+Aritmética. Teoría de los números.
+Álgebra.
+Geometría.
+Topología.
+Análisis matemático.
+Análisis combinatorio. Teoría de los grafos.
+Probabilidad y estadística matemática.
+Matemáticas computacionales. Análisis numérico.
+Cibernética matemática.
+Investigación operativa. Teoría de los juegos.
+Astronomía. Astrofísica. Investigación espacial. Geodesia.
+Astronomía teórica. Mecánica celeste. Astrometría. 
+Sistema solar.
+Estrellas. El universo.
+Astronomía náutica. Aeronáutica.
+Geodesia. Topografía. Cartografía.
+Física.
+Mecánica general. Mecánica de los cuerpos sólidos y rígidos.
+Gravitación. Péndulos. Balística.
+Mecánica de los fluidos. Hidráulica.
+Mecánica de los gases. Aerodinámica.
+Acústica.
+Óptica.
+Termodinámica.
+Electricidad. Magnetismo.
+Física de la materia condensada.
+Física nuclear. Física atómica. Física molecular.
+Química.
+Química experimental.
+Química analítica.
+Química física.
+Química inorgánica.
+Química orgánica.
+Cristalografía.
+Mineralogía.
+Geología y ciencias afines. Geología regional.
+Sismología. Terremotos en general.
+La Tierra.
+Geodinámica interna.
+Geodinámica externa. Glaciares.
+Geomorfología.
+Espeleología. Cuevas, grutas. Aguas subterráneas.
+Oceanografía.
+Meteorología.
+Climatología.
+Geología histórica. Estratigrafía.
+Petrología. Petrografía.
+Geología económica. Minerografía. Yacimientos de minerales.
+Hidrosfera. Agua en general. Hidrología.
+Paleontología. Fósiles.
+Ciencias biológicas en general.
+Antropología.
+Biología general.
+Ecología general.
+Genética.
+Biología celular. Citología.
+Bioquímica. Biología molecular. Biofísica.
+Virología.
+Microbiología.
+Botánica.
+Fisiología vegetal.
+Geografía botánica. Flora. 
+Botánica sistemática.
+Zoología.
+Fisiología animal.
+Zoología geográfica. Fauna.
+Invertebrados.
+Moluscos.
+Articulados.
+Peces. Ictiología.
+Anfibios.
+Vertebrados en general.
+Saurópsidos (reptiles).
+Aves. Ornitología.
+Mamíferos.
+Ciencias Aplicadas. Medicina. Técnica.
+Medicina.
+Anatomía.
+Fisiología.
+Higiene. Sanidad privada.
+Higiene de la alimentación. Dietética.
+Cuidado del cuerpo.
+Higiene de la vivienda.
+Higiene industrial y profesional.
+Higiene del descanso.
+Bebidas alcohólicas.
+Drogas.
+Tabaco.
+Higiene sexual.
+Sanidad pública. Prevención de accidentes.
+Personal sanitario.
+Medicamentos. Farmacología. Terapéutica física. Toxicología. Naturopatía. Medicina popular.
+Patología general. Medicina clínica. Terapéutica.
+Patología del aparato respiratorio.
+Patología del aparato respiratorio.
+Patología del aparato digestivo. Estomatología.
+Endocrinología. Patología del aparato linfático.
+Dermatología.
+Patología del aparato genito-urinario.
+Patología del aparato locomotor.
+Neurología. Neuropatología. Psiquiatría.
+Enfermedades infecciosas y contagiosas.
+Pediatría.
+Geriatría.
+Cirugía. Ortopedia. Oftalmología.
+Ortopedia. 
+Cirugía.
+Oftalmología.
+Ginecología. Obstetricia.
+Medicina veterinaria.
+Tecnología en general. Máquinas en general, sus propiedades y características.
+Ensayo de materiales. Centrales de energía. Economía de la energía.
+Ingeniería mecánica. Técnica en general.
+Técnica nuclear. Energía nuclear y atómica en general.
+Máquinas de vapor. Calderas.
+Energía hidráulica. Fuerza hidroeléctrica.
+Ingeniería eléctrica. Electrotecnia.
+Telecomunicaciones.
+Motores térmicos y otros motores especiales.
+Energía neumática. Tecnología del frío.
+Máquinas y dispositivos para el transporte y almacenamiento de gases y fluidos.
+Tratamiento mecanizado en general (sin arranque de material).
+Transmisión mecánica. Engranajes. Medios, formas, dispositivos para la transmisión de productos. Lubricación.
+Máquinas herramientas. Transformación (con arranque de material).
+Minería.
+Ingeniería militar.
+Ingeniería civil.
+Técnica de las vías de comunicación terrestres.
+Ingeniería hidráulica. Construcciones en general. Canales, riegos, drenajes.
+Cursos de agua naturales. Trabajos hidráulicos en los ríos y en el mar. Embalses y centrales hidroeléctricas.
+Ingeniería sanitaria. Agua. Saneamiento. Ingeniería de la iluminación. Higiene urbana (desechos).
+Alumbrado. Luminotecnia.
+Ingeniería del transporte. Técnica de los medios de transporte. Vehículos en general.
+Vehículos terrestres (excepto sobre raíles).
+Técnica de los medios de transporte sobre raíles.
+Ingeniería de los vehículos acuáticos. Ingeniería naval. Barcos, buques. Construcción de navíos. Medios de transporte por agua, navíos y barcos.
+Técnica de los medios de transporte aéreo y espacial. Aeronáutica. Cohetes. Astronáutica y vehículos espaciales.
+Agricultura.
+Silvicultura. Ingeniería forestal.
+Agronomía. Técnicas agrícolas.
+Enfermedades y plagas de las plantas. Fitopatología.
+Cultivos específicos. Cereales. Forrajes.
+Horticultura en general. Árboles frutales. Viticultura.
+Horticultura especial. Plantas comestibles (hortalizas). Floricultura. Jardinería.
+Zootecnia general. Ganadería, cría de animales.
+Productos de los animales domésticos, de la caza y de la pesca. 
+Cría de insectos. Apicultura. Sericultura.
+Caza y pesca industriales. Piscicultura.
+Caza.
+Pesca.
+Piscicultura.
+Economía doméstica. Cuidado y administración del hogar. Hostelería.
+Empresas de hostelería y restauración.
+Alimentos.
+Arte culinario.
+La vivienda.
+Cuidado doméstico de niños, enfermos e invitados.
+Cuidado de niños.
+Organización y gestión de la industria, el comercio y de las comunicaciones.
+Cuestiones de método. Teoría y práctica de la organización.
+Organización y técnicas de trabajo en las oficinas.
+Organización y gestión de la telecomunicación.
+Radio. Televisión (Radiodifusión).
+Industrias gráficas. Industrias del libro. Imprenta. Editoriales. Librerías.
+Organización y gestión de los transportes. Servicio postal.
+Transporte por carretera.
+Transporte ferroviario.
+Transporte por agua.
+Transporte aéreo.
+Aeropuertos.
+Correos. Filatelia.
+Contabilidad. Auditoría.
+Organización de empresas. Técnica comercial.
+Personal. Relaciones humanas en la empresa.
+Organización de mercados. «Marketing». Ventas. Distribución.
+Publicidad y propaganda. Información comercial. Relaciones públicas.
+Industria química. Tecnología química. Industrias afines.
+Productos químicos en general.
+Pirotecnia. Explosivos. Combustibles.
+Explosivos.
+Microbiología y micología industriales. Bebidas. Estimulantes.
+Fabricación y conservación de alimentos sólidos.
+Fabricación de aceites, grasas y ceras. Adhesivos. Gomas. Resinas.
+Industria del vidrio, cerámica, cemento y hormigón.
+Industrias del color. Fabricación y uso de colorantes, tintas, pinturas, etc.
+Metalurgia.
+Industria y oficios diversos.
+Joyería. Industrias de los metales y piedras preciosas.
+Industrias de artículos de hierro y acero en general, metales no ferrosos ni preciosos.
+Madera e industria de la madera.
+Industria de cuero. Tratamiento de pieles.
+Industria del papel y cartón.
+Industria textil.
+Industria del caucho. Industria de los plásticos. 
+Industria del cable y de la cordelería. Industrias de la piedra y otros productos naturales.
+Mecánica de precisión. Relojería. Balanzas, básculas.
+Ingeniería del control automático.
+Máquinas reproductoras e impresoras.
+Aparatos e instrumentos ópticos.
+Técnica acústica. Instrumentos musicales.
+Herrería. Trabajos de forja y fundición.
+Ferretería. Cerrajería. Lámparas de combustión. Estufas, hornos, calentadores.
+Industria del mueble y afines. Tapicería.
+Guarnicionería. Marroquinería. Zapatería. Artículos de viaje, deportes y juegos.
+Encuadernación. Dorado. Artículos de oficina.
+Industria del vestido. Artículos de tocador.
+Artículos de fantasía. Juguetes. Artículos de decoración.
+Artículos de fantasía. Juguetes. Artículos de decoración.
+Bricolaje. Aficiones técnicas o manuales.
+Construcción. Trabajos y materiales de construcción en general.
+Materiales de construcción y componentes.
+Partes estructurales y elementos de la construcción.
+Albañilería. Construcciones de hormigón y acero.
+Construcción de madera. Carpintería. Ebanistería.
+Instalaciones y servicios en la construcción (sanitarios, de gas, vapor, electricidad).
+Instalaciones de calefacción, ventilación y climatización en los edificios.
+Medidas de seguridad en los edificios.
+Arte en general. Bellas Artes. Deportes.
+Teoría general del arte. Estética. Filosofía del arte.
+Restauración.
+Estilos artísticos.
+Estilos de la antigüedad.
+Arte medieval.
+Arte románico.
+Arte gótico.
+Renacimiento. Barroco.
+Neoclasicismo y movimiento romántico.
+Movimientos artísticos modernos (siglo XX).
+Iconografía.
+Coleccionismo.
+Urbanismo. Ordenación del territorio.
+Ordenación rural. Desarrollo rural.
+Ordenación urbana.
+Ordenación del paisaje. Parques y jardines.
+Arquitectura.
+Edificios en general. 
+Edificios públicos. Edificios comerciales. Edificios administrativos.
+Edificios religiosos. Edificios funerarios.
+Edificios docentes. Edificios con finalidad científica y cultural.
+Viviendas en general.
+Artes plásticas. Escultura.
+Arte de tallar piedras preciosas. Sigilografía.
+Numismática.
+Cerámica. Alfarería.
+Trabajos artísticos en metal.
+Dibujo en general.
+Perspectiva en dibujo.
+Dibujo anatómico.
+Dibujo lineal y geométrico. Dibujo técnico.
+Artesanía decorativa.
+Trabajos manuales de aguja, rafia, mimbre, etc.
+Decoraciones de interiores.
+Vidrios y cristales artísticos.
+Muebles artísticos.
+Pintura.
+Artes gráficas. Grabados.
+Fotografía.
+Equipo fotográfico.
+Procedimientos fotomecánicos de reproducción.
+Aplicaciones de la fotografía.
+Música. Géneros musicales. Métodos y estudios de Música para los distintos instrumentos.
+Diversiones. Juegos. Deportes. Espectáculos públicos.
+Cine.
+Circos. Zoológicos.
+Corridas de toros. Tauromaquia.
+Teatro. Teoría y técnica teatral.
+Diversiones de sociedad. Baile.
+Juegos de tablero y mesa.
+Ajedrez.
+Deportes. Juegos. Gimnasia. Ejercicios físicos.
+Juegos de pelota.
+Gimnasia. Atletismo.
+Excursiones. Montañismo. Camping.
+Deportes sobre ruedas. Ciclismo.
+Automovilismo. Motociclismo.
+Deportes de combate y defensa.
+Deportes de invierno. Juegos sobre hielo.
+Deportes acuáticos. Deportes aéreos.
+Deportes hípicos.
+Pesca deportiva. Caza deportiva. Tiro deportivo.
+Lenguajes, Lingüística y Literatura.
+Lingüística. Filología.
+Métrica. Prosodia.
+Lenguas ibéricas.
+Lenguas clásicas.
+Lingüística y lenguas.
+Clasificación general de las lenguas.
+Lenguas germánicas.
+Inglés.
+Lenguas romances.
+Italiano.
+Francés.
+Provenzal.
+Catalán.
+Variedades del catalán. Valenciano.
+Español.
+Dialectos del español.
+Portugués.
+Gallego.
+Griego clásico.
+Griego moderno.
+Lenguas eslavas y bálticas.
+Vasco (Euskera).
+Lenguas orientales, africanas y otras lenguas.
+Lenguas uralo-altaicas (turanias, manchú, turco, húngaro, lapón...).
+Lenguas austro-asiáticas (malayo-polinésicas, oceánicas).
+Lenguas indias de América (Amerindias) (del norte, centro y sur de América).
+Lenguajes artificiales para uso entre los hombres.
+Alemán.
+Fonética. Fonología.
+Ortografía.
+Gramática. Sintaxis.
+Lexicología. Toponimia.
+Lexicografía.
+Literatura general.
+Crítica literaria. Historia de la literatura.
+Literatura en otras lenguas germánicas. Historia y crítica. Obras.
+Literatura en lengua inglesa. Historia y crítica. Obras.
+Literatura en lengua inglesa. Poesía.
+Literatura en lengua inglesa. Teatro.
+Literatura en lengua inglesa. Novela y cuento.
+Literatura en lengua inglesa. Otros géneros.
+Literatura en lengua alemana. Historia y crítica. Obras.
+Literatura en lengua alemana. Poesía.
+Literatura en lengua alemana. Teatro.
+Literatura en lengua alemana. Novela y cuento.
+Literatura en lengua alemana. Otros géneros.
+Literatura latina. Historia y crítica. Obras.
+Literatura en lengua italiana. Historia y crítica. Obras. 
+Literatura en lengua italiana. Poesía.
+Literatura en lengua italiana. Teatro.
+Literatura en lengua italiana. Novela y cuento.
+Literatura en lengua italiana. Otros géneros.
+Literatura en lengua francesa. Historia y crítica. Obras.
+Literatura en lengua francesa. Poesía.
+Literatura en lengua francesa. Teatro.
+Literatura en lengua francesa. Novela y cuento.
+Literatura en lengua francesa. Otros géneros.
+Literatura catalana. Historia y crítica.
+Literatura catalana. Poesía.
+Literatura catalana. Teatro.
+Literatura catalana. Novela y cuento.
+Literatura catalana. Otros géneros.
+Literatura española. Historia y crítica.
+Literatura española. Poesía.
+Literatura española. Teatro.
+Literatura española dialectal.
+Literatura española. Novela y cuento.
+Literatura española. Otros géneros.
+Literatura de América del Norte y Central en lengua española. Historia y crítica. Obras.
+Literatura de América del Norte y Central en lengua española. Poesía.
+Literatura mexicana. Historia y crítica. Obras.
+Literatura de América del Norte y Central en lengua española. Teatro.
+Literatura guatemalteca. Historia y crítica. Obras.
+Literatura guatemalteca. Poesía.
+Literatura guatemalteca. Teatro.
+Literatura guatemalteca. Novela y cuento.
+Literatura guatemalteca. Otros géneros.
+Literatura hondureña. Historia y crítica. Obras.
+Literatura hondureña. Poesía.
+Literatura hondureña. Teatro.
+Literatura hondureña. Novela y cuento.
+Literatura hondureña. Otros géneros.
+Literatura salvadoreña. Historia y crítica. Obras.
+Literatura salvadoreña. Poesía.
+Literatura salvadoreña. Teatro.
+Literatura salvadoreña. Novela y cuento.
+Literatura salvadoreña. Otros géneros.
+Literatura nicaragüense. Historia y crítica. Obras.
+Literatura nicaragüense. Poesía.
+Literatura nicaragüense. Teatro.
+Literatura nicaragüense. Novela y cuento.
+Literatura nicaragüense. Otros géneros.
+Literatura costarricense. Historia y crítica. Obras.
+Literatura costarricense. Poesía.
+Literatura costarricense. Teatro. 
+Literatura costarricense. Novela y cuento.
+Literatura costarricense. Otros géneros.
+Literatura panameña. Historia y crítica. Obras.
+Literatura panameña. Poesía.
+Literatura panameña. Teatro.
+Literatura panameña. Novela y cuento.
+Literatura panameña. Otros géneros.
+Literatura cubana. Historia y crítica. Obras.
+Literatura cubana. Poesía.
+Literatura cubana. Teatro.
+Literatura cubana. Novela y cuento.
+Literatura cubana. Otros géneros.
+Literatura dominicana. Historia y crítica. Obras.
+Literatura dominicana. Otros géneros.
+Literatura puertorriqueña. Historia y crítica. Obras.
+Literatura puertorriqueña. Poesía.
+Literatura puertorriqueña. Teatro.
+Literatura puertorriqueña. Novela y cuento.
+Literatura puertorriqueña. Otros géneros.
+Literatura mexicana. Poesía.
+Literatura mexicana. Teatro.
+Literatura mexicana. Novela y cuento.
+Literatura mexicana. Otros géneros.
+Literatura de América del Norte y Central en lengua española. Novela y cuento.
+Literatura de América del Norte y Central en lengua española. Otros géneros.
+Literatura de América del Sur en lengua española. Historia y crítica. Obras.
+Literatura de América del Sur en lengua española. Poesía.
+Literatura argentina. Historia y crítica. Obras.
+Literatura de América del Sur en lengua española. Teatro.
+Literatura argentina. Poesía.
+Literatura argentina. Teatro.
+Literatura argentina. Novela y cuento.
+Literatura argentina. Otros géneros.
+Literatura chilena. Historia y crítica. Obras.
+Literatura de América del Sur en lengua española. Novela y cuento.
+Literatura chilena. Poesía.
+Literatura chilena. Teatro.
+Literatura chilena. Novela y cuento.
+Literatura chilena. Otros géneros.
+Literatura boliviana. Historia y crítica. Obras.
+Literatura de América del Sur en lengua española. Otros géneros.
+Literatura boliviana. Poesía.
+Literatura boliviana. Teatro.
+Literatura boliviana. Novela y cuento.
+Literatura boliviana. Otros géneros. 
+Literatura peruana. Historia y crítica. Obras.
+Literatura peruana. Poesía.
+Literatura peruana. Teatro.
+Literatura peruana. Novela y cuento.
+Literatura peruana. Otros géneros.
+Literatura colombiana. Historia y crítica. Obras.
+Literatura colombiana. Poesía.
+Literatura colombiana. Teatro.
+Literatura colombiana. Novela y cuento.
+Literatura colombiana. Otros géneros.
+Literatura ecuatoriana. Historia y crítica. Obras.
+Literatura ecuatoriana. Poesía.
+Literatura ecuatoriana. Teatro.
+Literatura ecuatoriana. Novela y cuento.
+Literatura ecuatoriana. Otros géneros.
+Literatura venezolana. Historia y crítica. Obras.
+Literatura venezolana. Poesía.
+Literatura venezolana. Teatro.
+Literatura venezolana. Novela y cuento.
+Literatura venezolana. Otros géneros.
+Literatura paraguaya. Historia y crítica. Obras.
+Literatura paraguaya. Poesía.
+Literatura paraguaya. Teatro.
+Literatura paraguaya. Novela y cuento.
+Literatura paraguaya. Otros géneros.
+Literatura uruguaya. Historia y crítica. Obras.
+Literatura uruguaya. Poesía.
+Literatura uruguaya. Teatro.
+Literatura uruguaya. Novela y cuento.
+Literatura uruguaya. Otros géneros.
+Literatura en lengua portuguesa. Historia y crítica. Obras.
+Literatura en lengua portuguesa. Poesía.
+Literatura en lengua portuguesa. Teatro.
+Literatura en lengua portuguesa. Novela y cuento.
+Literatura en lengua portuguesa. Otros géneros.
+Literatura gallega. Historia y crítica. Obras.
+Literatura gallega. Poesía.
+Literatura gallega. Teatro.
+Literatura gallega. Novela y cuento.
+Literatura gallega. Otros géneros.
+Literatura griega clásica. Historia y crítica. Obras.
+Literatura griega moderna. Historia y crítica. Obras.
+Literaturas eslavas y bálticas.
+Literatura rusa. Historia y crítica. Obras.
+Literatura polaca. Historia y crítica. Obras.
+Literatura checa.
+Literatura búlgara, serbia y croata.
+Literatura vasca (en euskera). Historia y crítica. Obras.
+Literatura vasca (en euskera). Poesía.
+Literatura vasca (en euskera). Teatro. 
+Literatura vasca (en euskera). Novela y cuento.
+Literatura vasca (en euskera). Otros géneros.
+Literatura árabe.
+Literatura japonesa. Historia y crítica. Obras.
+Literatura licenciosa, erótica y pornográfica.
+Literaturas clásicas. Historia y crítica. Obras.
+Otras literaturas.
+Geografía. Biografía. Historia.
+Arqueología.
+Prehistoria. Restos prehistóricos.
+Restos culturales de tiempos históricos.
+Descripción geográfico-histórica de un territorio, una localidad.
+Geografía general. Historia de la geografía.
+Geografía como ciencia. Cuestiones generales. Viajes.
+Viajes de descubrimientos. Expediciones.
+Geografía física.
+Geografía humana, social y cultural.
+Mapas. Atlas geográficos. Globos terráqueos.
+Geografía del mundo antiguo. Geografía regional en general.
+Geografía de Europa.
+Geografía de España.
+Geografía de Galicia.
+Geografía del Principado de Asturias.
+Geografía de Cantabria.
+Geografía del País Vasco.
+Geografía de Navarra.
+Geografía de Castilla y León.
+Geografía de La Rioja.
+Geografía de Aragón.
+Geografía de Cataluña.
+Geografía de Extremadura.
+Geografía de la Comunidad Autónoma de Madrid.
+Geografía de Castilla-La Mancha.
+Geografía de la Comunidad Autónoma Valenciana.
+Geografía de las Baleares.
+Geografía de la Región de Murcia.
+Geografía de Andalucía.
+Geografía de Canarias.
+Geografía de Asia.
+Geografía de África.
+Geografía de América del Norte y Central.
+Geografía de México.
+Geografía de Guatemala.
+Geografía de Belice.
+Geografía de Honduras.
+Geografía de El Salvador. 
+Geografía de Nicaragua.
+Geografía de Costa Rica.
+Geografía de Panamá.
+Geografía de Cuba.
+Geografía de Jamaica.
+Geografía de la República Dominicana.
+Geografía de Haití.
+Geografía de Puerto Rico.
+Geografía de las Pequeñas Antillas.
+Geografía de América del Sur.
+Geografía de Brasil.
+Geografía de Argentina.
+Geografía de Chile.
+Geografía de Bolivia.
+Geografía de Perú.
+Geografía de Colombia.
+Geografía de Ecuador.
+Geografía de Venezuela.
+Geografía de Paraguay.
+Geografía de Uruguay.
+Geografía de Australia, Oceanía y de las regiones polares.
+Biografías.
+Genealogía.
+Heráldica. Blasones. Escudos de armas.
+Nobleza.
+Historia.
+Ciencias auxiliares de la historia.
+Filosofía de la historia.
+Archivística. Archivos.
+Historia de la civilización. Historia de la cultura.
+Historia universal.
+Historia del mundo antiguo.
+Historia de la Edad Media y Moderna en general.
+Historia de Europa.
+Historia de España.
+Historia de Galicia.
+Historia del Principado de Asturias.
+Historia de Cantabria.
+Historia del País Vasco.
+Historia de Navarra.
+Historia de Castilla y León.
+Historia de La Rioja.
+Historia de Aragón.
+Historia de Cataluña.
+Historia de Extremadura.
+Historia de la Comunidad Autónoma de Madrid.
+Historia de Castilla-La Mancha.
+Historia de la Comunidad Autónoma Valenciana.
+Historia de las Baleares.
+Historia de la Región de Murcia. 
+Historia de Andalucía.
+Historia de Canarias.
+Historia de Asia.
+Historia de África.
+Historia de América del Norte y América Central.
+Historia de México.
+Historia de Guatemala.
+Historia de Belice.
+Historia de Honduras.
+Historia de El Salvador.
+Historia de Nicaragua.
+Historia de Costa Rica.
+Historia de Panamá.
+Historia de Cuba.
+Historia de Jamaica.
+Historia de la República Dominicana.
+Historia de Haití.
+Historia de las Puerto Rico.
+Historia de las Pequeñas Antillas.
+Historia de América del Sur.
+Historia de Brasil.
+Historia de Argentina.
+Historia de Chile.
+Historia de Bolivia.
+Historia de Perú.
+Historia de Colombia.
+Historia de Ecuador.
+Historia de Venezuela.
+Historia de Paraguay.
+Historia de Uruguay.
+Historia de Australia, Oceanía y de las regiones polares. 

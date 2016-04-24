@@ -1,0 +1,15 @@
+SE INICIA LA APLICACIÓN A TRAVÉS DE DOCKER Y DOCKER-COMPOSE
+
+SE CREA LA BASE DE DATOS DESDE DOCKER
+
+SE CREAN LAS ENTIDADES
+
+SE UTILIZA UNA LIBRERÍA PARA CREAR MIGRACIONES
+
+SE UTILIZA UNA LIBRERÍA PARA CRER FIXTURES
+
+FIXTURES DE CDU-------
+La tarea era tediosa pero corté con linux los datos que necesitaba y con un sencillo script de php pude solventarla
+
+
+-------------------------------------------------------------------------------------------------------------------

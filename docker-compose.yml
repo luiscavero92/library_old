@@ -1,0 +1,14 @@
+symfony:
+    image: luiscavero/symfony
+    container_name: library
+    links:
+       - mysql
+    ports:
+       - "8000:80"
+    volumes:
+       - .:/var/app
+mysql:
+    image: mysql:5.6
+    container_name: library_mysql
+    environment:
+       - MYSQL_ROOT_PASSWORD=pass

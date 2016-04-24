@@ -1,0 +1,81 @@
+libros
+
+idEjemplar
+fecha1Info
+fecha2Info
+
+CDU
+
+Autor
+Titulo
+Subtitulo
+RestoPortada
+Edicion
+LugarEdición
+AñoEdicion
+Extension
+Caracteristicas fisicas
+Dimesiones
+Serie
+NúmeroSerie
+Notas
+Procedencia
+Ubicación
+ISBNjemplar
+NumRegistro
+Fechaaalta
+Importe
+Moneda
+NotaEjemplar
+Sig1,2,3
+Signatura
+
+LIBROS
+
+CDS
+
+DVDS
+
+VHS
+
+OTROS?
+
+ARTÍCULOS    ->   EJEMPLARES
+
+ARTÍCULOS {  NUM REFERENCIA, ISBN, LOCALIZACION, CDU, SIGNATURA[SIG1, SIG2, SIG3], TITULO, AUTOR, AÑO DE EDICION, CATEGORY, PRESTABLE}
+
+
+EJEMPLARES { NUM EJEMPLAR, ARTICULOREF, PERDIDO, DETERIORADO, FECHA ALTA }
+
+
+LECTORES { NUM EXP?, DNI, NOMBRE, APELLIDOS, FOTO, EMAIL, TELEFONO, PROHIBIDO }
+
+
+PRESTAMOS [ EJEMPLARES - LECTORES N-N] { COPYNUMBER, RECORDNUMBER, FECHA PRÉSTAMO, FECHA DEVOLUCIÓN, DEVUELTO  } 
+
+
+
+PROPUESTA: ¿HAY QUE DIFERENCIAR ENTRE EL IDIOMA DE LAS OBRAS?, ¿HACEN FALTA CUATRO SIGNATURAS?, ¿Aparte de libros qué más tenéis?
+¿El número de referencia DE ARTÍCULOS es obligatorio? (todos tienen),  ¿Qué campos te gustaría que fuesen nulos? ¿Por qué elementos soléis hacer búsquedas?
+¿todas las publicaciones tienen ISBN?
+¿PROTECCIÓN DE EDAD EN LOS LIBROS?
+¿Los profesores pueden sacar libros? ¿Por qué códigos se rigen?
+
+
+HACER MÁS TARDE
+Excepciones del sygnature type.
+Unir firstName lastName, probablemente sea util para elegir campos de otras tablas o la misma?.
+
+PROTECCIÓN DE EDAD?
+
+LIBROS LEÍDOS EN BASE A UNA POSIBLE DESCARGA DE LOS REGISTROS DE LA BASE DE DATOS?
+
+COMENTARIOS/PUNTUACIÓN EN LOS ARTÍCULOS?
+
+MEDALLAS PARA LECTORES ASIDUOS?
+
+EXPORTACIONES ADA, PLUMIER COMO EN ABBIES?
+
+
+
+
