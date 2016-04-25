@@ -76,3 +76,19 @@ doctrine_migrations:
     namespace: Application\Migrations
     table_name: migration_versions
     name: Application Migrations
+
+# FOSRestBundle Configuration
+fos_rest:
+    routing_loader:
+         default_format: json
+    service:
+        serializer: jms_serializer.serializer
+
+#JMSSerializerBundle Configuration
+jms_serializer:
+    property_naming:
+        separator: _
+        lower_case: true
+    visitors:
+        json:
+            options: [JSON_PRETTY_PRINT, JSON_UNESCAPED_SLASHES, JSON_UNESCAPED_UNICODE]

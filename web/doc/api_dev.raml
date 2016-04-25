@@ -1,0 +1,316 @@
+#%RAML 0.8
+title: Article_Dev
+version: v1
+baseUri: http://localhost:8000/app_dev.php
+/articles:
+  displayName: Article
+  get:
+    description: Retrieve a list of articles
+    responses:
+      200:
+        body:
+          application/json:
+           example: |
+              [
+                {
+                  "id": 1,
+                  "refNumber": "343434341",
+                  "isbn": "65656565656-1",
+                  "title": "Alfagann es Flanagan",
+                  "subtitle": "el detective",
+                  "authors": [
+                              { "name": "Miguel de Cervantes" },
+                              { "name": "Galileo Galilei" },
+                              { "name": "Luilli" }
+                  ],
+                  "editionYear": "1990",
+                  "legalDeposit": "Depósito legal: 1",
+                  "publisher": "Circulo de lectores",
+                  "location": "Estanteria juvenil",
+                  "cdu": "004",
+                  "signature": [
+                                { "sig1": "TBEO" },
+                                { "sig2": "NAR" },
+                                { "sig3": "MAN" }
+                  ],
+                  "category": "BOOK",
+                  "note": "The best note",
+                  "loanable": true
+
+                },
+                {
+                  "id": 2,
+                  "refNumber": "343434342",
+                  "isbn": "65656565656-2",
+                  "title": "Alfagann es Flanagan",
+                  "subtitle": "el detective",
+                  "authors": [
+                              { "name": "Miguel de Cervantes" },
+                              { "name": "Galileo Galilei" },
+                              { "name": "Luilli" }
+                  ],
+                  "editionYear": "1990",
+                  "legalDeposit": "Depósito legal: 2",
+                  "publisher": "Circulo de lectores",
+                  "location": "Estanteria juvenil",
+                  "cdu": "11",
+                  "signature": [
+                                { "sig1": "TBEO" },
+                                { "sig2": "NAR" },
+                                { "sig3": "MAN" }
+                  ],
+                  "category": "BOOK",
+                  "note": "The best note",
+                  "loanable": true
+
+                }
+              ]
+      404:
+          body:
+            application/json:
+              example: |
+                {
+                  "error": {
+                    "code": 404,
+                    "message": "Not Found"
+                  }
+                }
+
+      500:
+          body:
+            application/json:
+              example: |
+                {
+                  "error": {
+                    "code": 500,
+                    "message": "Internal Server Error"
+                  }
+                }
+
+
+  post:
+    description: Create a new alert
+    body:
+      application/json:
+        schema: |
+          {
+          "$schema": "http://json-schema.org/draft-03/schema",
+          "type": "object",
+          "description": "A new alert",
+          "properties":
+            {
+              "title": {"type": "string"},
+              "description": {"type": "string"},
+              "priority":{"type": "integer"},
+              "place": {
+                "type": "string",
+                "required": false
+              },
+              "information":{
+                "type": "string",
+                "required": false
+              },
+              "phone":{
+                "type": "integer",
+                "required": false
+              },
+              "resolved":{
+                "type": "boolean",
+                "required": false
+              }
+            }
+          }
+        example: |
+          {
+          "article":
+            {
+            "title": "Un libro",
+            "subtitle": "Mi libro",
+            "refNumber": "2323232",
+            "isbn": "23232-A",
+            "authors": "[{'name': 'luis'}]",
+            "editionYear": 1990,
+            "publisher": "cirulo",
+            "legalDeposit": "2323232",
+            "cdu": 46315,
+            "signature":  {
+              "sig1":"misig",
+              "sig2":"mio",
+              "sig3":"jaja"
+              },
+            "location": "Un anden",
+            "category": "DVD",
+            "note": "Una notita",
+            "loanable": false
+            } 
+          }
+    responses:
+      201:
+        body:
+          application/json:
+           example: |
+                {
+                  "id": 10,
+                  "title": "A pc is broken",
+                  "description": "A litle flames appeared around the pc",
+                  "priority": 2,
+                  "place": "Murcia c/Sicilia nº 9",
+                  "phone": 689494849,
+                  "resolved": false
+                }
+      404:
+          body:
+            application/json:
+              example: |
+                {
+                  "error": {
+                    "code": 404,
+                    "message": "Not Found"
+                  }
+                }
+
+      500:
+          body:
+            application/json:
+              example: |
+                {
+                  "error": {
+                    "code": 500,
+                    "message": "Internal Server Error"
+                  }
+                }
+
+  /{id}:
+    uriParameters:
+      id:
+        description: The uniquely number which indentifies this alert
+        type: integer
+    get:
+      description: Retrieve the specified alert
+      responses:
+        200:
+          body:
+            application/json:
+              schema: |
+                {
+                "$schema": "http://json-schema.org/draft-03/schema",
+                "type": "object",
+                "description": "An alert",
+                "properties":
+                  {
+                    "id": {"type": "integer"},
+                    "title": {"type": "string"},
+                    "description": {"type": "string"},
+                    "priority":{"type": "integer"},
+                    "place": {
+                      "type": "string",
+                      "required": false
+                    },
+                    "information":{
+                      "type": "string",
+                      "required": false
+                    },
+                    "phone":{
+                      "type": "integer",
+                      "required": false
+                    },
+                    "resolved":{"type": "boolean"}
+                  }
+                }
+              example: |
+                {
+                "id": 10,
+                "title": "A pc is broken",
+                "description": "A litle flames appeared around the pc",
+                "priority": 2,
+                "place": "Murcia c/Sicilia nº 9",
+                "phone": 689494849,
+                "resolved": false
+                }
+        404:
+          body:
+            application/json:
+              example: |
+                {
+                  "error": {
+                    "code": 404,
+                    "message": "Not Found"
+                  }
+                }
+
+
+    delete:
+      description: Delete the specified alert
+      responses:
+        204:
+
+        500:
+          body:
+            application/json:
+              example: |
+                {
+                  "error": {
+                    "code": 500,
+                    "message": "Internal Server Error"
+                  }
+                }
+                
+    patch:
+      description: Update the specified alert
+      body:
+        application/json:
+          schema: |
+            {
+            "$schema": "http://json-schema.org/draft-03/schema",
+            "type": "object",
+            "description": "Update an alert",
+            "properties":
+              {
+                "resolved": {
+                  "type": "boolean",
+                  "required": false
+                }
+              }
+            }
+          example: |
+            {
+            "alert":
+              {
+              "resolved":true
+              }
+            }
+      responses:
+        204:
+
+        400:
+          body:
+            application/json:
+              example: |
+                {
+                  "error": {
+                    "code": 400,
+                    "message": "Bad Request"
+                  }
+                }
+
+        404:
+          body:
+            application/json:
+              example: |
+                {
+                  "error": {
+                    "code": 404,
+                    "message": "Not Found"
+                  }
+                }
+
+        500:
+            body:
+              application/json:
+                example: |
+                  {
+                    "error": {
+                      "code": 500,
+                      "message": "Internal Server Error"
+                    }
+                  }

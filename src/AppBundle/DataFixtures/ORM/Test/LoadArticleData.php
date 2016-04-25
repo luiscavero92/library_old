@@ -22,7 +22,7 @@ class LoadArticleData extends AbstractFixture implements OrderedFixtureInterface
             $article->setRefNumber('34343434'.$i);
             $article->setIsbn('65656565656-'.$i);
             $article->setTitle('Alfagann es Flanagan');
-            $article->setSubtitle('Es así');
+            $article->setSubtitle('el detective');
             $article->setAuthors(['Miguel de Cervantes', 'Galileo Galilei', 'Luilli']);
             $article->setEditionYear('1990');
             $article->setLegalDeposit('Depósito legal: '.$i);

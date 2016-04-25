@@ -1,13 +1,26 @@
 <?php
 namespace AppBundle\Types\ClassTypes;
 
+use JMS\Serializer\Annotation\Type;
+
 class Signature
 {
 
 	const DELIMITER = '¨';
 
+    /**
+     * @Type("string")
+     */
     private $sig1;
+
+    /**
+     * @Type("string")
+     */
     private $sig2;
+
+    /**
+     * @Type("string")
+     */
     private $sig3;
     
     /**

@@ -6,6 +6,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use AppBundle\Entity\Loan;
+use AppBundle\Types\ClassTypes\Signature;
 
 class DefaultController extends Controller
 {
@@ -15,43 +16,18 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         // replace this example code with whatever you need
+$serializer = $this->get('jms_serializer');
 
-        $doctrine = $this->getDoctrine();
-        $manager = $doctrine->getManager();
-        
-        $article = $doctrine->getRepository('AppBundle:Article')->findByIsbn('An Isbn');
-        $copys = $doctrine
-            ->getRepository('AppBundle:Copy')
-            ->findBy(array('article' => $article, 'available' => true));
+        $articulo = '{"sig1":"misig","sig2":"mio","sig3":"jaja"}';
 
-        if($copys){
-            $copy = $copys[0];
-        }else{
-            throw new \Exception("There aren't available copys of this article");
-        }
+        $data = $serializer->deserialize($articulo, 'AppBundle\Types\ClassTypes\Signature', 'json');
 
-        $reader = $doctrine
-            ->getRepository('AppBundle:Reader')
-            ->findOneByRecordNumber('11111111');
-
-        $loan = new Loan();
-        $loan->setCopy($copy);
-        $loan->setReader($reader);
-        $loan->setLoanDate(date_create(date("Y-m-d")));
-
-        $manager->persist($loan);
-        $manager->flush();
-
-        $repository = $doctrine->getRepository('AppBundle:Loan');
-        $articulo = $repository->findAll()[0];
-        $mejor = $articulo;
-        $serializer = $this->get('serializer');
-        $articulo = $serializer->serialize($articulo, 'json');
+        $mejor = $data instanceof Signature;         
 
         return $this->render('default/index.html.twig', [
             'base_dir' => realpath($this->getParameter('kernel.root_dir').'/..'),
-            'articulo' => $articulo,
             'mejor' => $mejor,
+            'articulo' => $articulo
         ]);
     }
 }

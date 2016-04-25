@@ -1,3 +1,6 @@
 app:
-    resource: "@AppBundle/Controller/"
-    type:     annotation
+    resource: AppBundle\Controller\v1\ArticleController
+    type:     rest
+
+    # resource: "@AppBundle/Controller/"
+    # type:     annotation
