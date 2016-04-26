@@ -1,21 +1,21 @@
 <?php
 namespace AppBundle\Controller\v1;
 
-use FOS\RestBundle\Controller\FOSRestController;
-
 use Symfony\Component\HttpKernel\Exception\HttpException;
-
 use Symfony\Component\HttpFoundation\Request;
+use FOS\RestBundle\Controller\FOSRestController;
+use AppBundle\Form\FormStrongValidator;
 
 class APIController extends FOSRestController
 {
     //Error messages
-	protected $deleteErrorMsg = "Data base delete error.";
+	protected $deleteErrorMsg = "Data base delete error. Check if record have foreign keys";
     protected $updateErrorMsg = "Data base update error.";
     protected $insertErrorMsg = "Data base insert error.";
     protected $accessErrorMsg = "Data base access error. Check database config and if the entity recieved exists";
     protected $unauthorizedAccessMsg = "Unauthorized access!";
-    protected $formError = "Check the name of the form is correct, or if the passed id as attributes of the entity exist or if a required field is missing.";
+    protected $formError = "Check the name of the form is correct, or if the passed id as attributes of the entity exist or if a required field is missing. If is a patch request, check if array('method' => 'PATCH') is added in the form";
+    protected $formHandleError = "Form cant handlerequest";
     protected $badRequestMsg = "The request could not be understood by the server due to malformed syntax. The client SHOULD NOT repeat the request without modifications.";
     protected $urlUserService = "/api/user/v1/users";
     protected $urlUserPassService = "http://user.com/api/user/v1/user/password";
@@ -49,8 +49,6 @@ class APIController extends FOSRestController
         	throw new HttpException(404, "No list found");
         }
 
-		$serializer = $this->container->get('serializer');
-
 		$view = $this->view($items, 200);
 		return $this->handleView($view);
 	}
@@ -68,9 +66,15 @@ class APIController extends FOSRestController
     	$form = $this->createForm($this->formName, $item);
 
     	$form->handleRequest($request);
-
+        
     	if(!$form->isValid()){
-    		$msg = ($form->getErrors(true)->count()==0) ?  $this->formError : $form->getErrors(true);
+            if($form->getErrors(true)->count() != 0){
+                $msg = $form->getErrors(true);
+            }else{
+                $validator = new FormStrongValidator($form);
+                $msg = $validator->getHiddenErrors();
+            }
+
             throw new HttpException(400, "formErrors: ".$msg);	
     	}
     	try{
@@ -89,22 +93,28 @@ class APIController extends FOSRestController
     	return $this->handleView($view);
         
 	}
-/*
-	public function patchAlertAction(Request $request, Alert $alert)
+
+	public function patch(Request $request, $item)
 	{	
 
-    	$form = $this->createForm("AppBundle\Form\AlertType", $alert, array('method' => 'PATCH'));
+    	$form = $this->createForm($this->formName, $item, array('method' => 'PATCH'));
     	
     	$form->handleRequest($request);
 
     	if(!$form->isValid()){
-    		$msg = ($form->getErrors(true)->count()==0) ?  $this->formError : $form->getErrors(true);
-            throw new HttpException(400, "formErrors: ".$msg);	
-    	}
+            if($form->getErrors(true)->count() != 0){
+                $msg = $form->getErrors(true);
+            }else{
+                $validator = new FormStrongValidator($form);
+                $msg = $validator->getHiddenErrors();
+            }
+
+            throw new HttpException(400, "formErrors: ".$msg);  
+        }
 
     	try{
             $em = $this->getDoctrine()->getManager();
-		    $em->persist($alert);
+		    $em->persist($item);
 		    $em->flush();
         } catch (HttpException $e) {
             $this->get('logger')->error($e->getMessage(), array("TRACE ERROR: ".__METHOD__));
@@ -114,17 +124,16 @@ class APIController extends FOSRestController
             throw new HttpException(500, $this->insertErrorMsg);
         } 
 
-		$view = $this->view($alert,200);
+		$view = $this->view("",204);
     	return $this->handleView($view);
 
 	}
 
-	public function deleteAlertAction(Alert $alert)
+	public function delete($item)
 	{
-
         try{
-            $em = $this->get('doctrine')->getManager();
-            $em->remove($alert);
+            $em = $this->getDoctrine()->getManager();
+            $em->remove($item);
             $em->flush();
         } catch (HttpException $e) {
             $this->get('logger')->error($e->getMessage(), array("TRACE ERROR: ".__METHOD__));
@@ -136,7 +145,7 @@ class APIController extends FOSRestController
 
         $view = $this->view("", 204);
         return $this->handleView($view);
-	}*/
+	}
 
 
 }

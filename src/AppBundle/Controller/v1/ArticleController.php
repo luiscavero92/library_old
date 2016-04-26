@@ -1,8 +1,9 @@
 <?php
 namespace AppBundle\Controller\v1;
 
-use AppBundle\Entity\Article;
 use Symfony\Component\HttpFoundation\Request;
+use AppBundle\Controller\v1\APIController;
+use AppBundle\Entity\Article;
 
 class ArticleController extends APIController
 {
@@ -26,7 +27,6 @@ class ArticleController extends APIController
 	public function postArticlesAction(Request $request)
 	{
         return parent::post($request);
-        
 	}
 /*
 	public function patchAlertAction(Request $request, Alert $alert)
